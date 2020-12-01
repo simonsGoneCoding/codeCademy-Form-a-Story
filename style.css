@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(255, 199, 64);
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+form {
+  line-height: 27px;
+}
+
+#main {
+  background-color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  height: 80vh;
+  border-radius: 15px;
+  margin: 2% 10%;
+  overflow: auto;
+}
+
+#top img {
+  display: block;
+  max-width: 35%;
+  margin: 0 auto;
+  height: auto;
+}
